@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ricochet-experiment.github.io/al-folio/sitemap.xml
+Sitemap: https://ricochet-experiment.github.io/sitemap.xml
