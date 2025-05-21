@@ -440,7 +440,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-the-ill-reactor-is-now-on-ricochet-continues-the-run-015-with-9-detectors",
+          title: 'The ILL reactor is now ON, RICOCHET continues the run-015 with 9 detectors!...',
+          description: "",
+          section: "News",},{id: "news-a-very-successful-collaboration-meeting-ricochet-members-from-all-partner-institutions-met-at-the-institut-laue-langevin-for-a-productive-week",
+          title: 'A very successful collaboration meeting: RICOCHET members from all partner institutions met at...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
