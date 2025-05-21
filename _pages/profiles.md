@@ -18,7 +18,7 @@ profiles:
     image: ill_JLBaudet.jpg
     content: exp_ill.md
     image_circular: false # crops the image to make it circular
-    more_info: The ILL reactor credit: ILL - JL Baudet
+    more_info: The ILL reactor credit ILL JL Baudet
   - align: right
     image: Tour-suspendue-RED20-LIO.jpg
     content: exp_det.md
