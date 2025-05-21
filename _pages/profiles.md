@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /experiment/
+title: experiment
+description: all you always wanted to know about RICOCHET
 nav: true
-nav_order: 7
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
