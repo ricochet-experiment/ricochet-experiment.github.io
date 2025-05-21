@@ -20,7 +20,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: The ILL reactor [credit: ILL - JL Baudet]
   - align: right
-    image: PL38_picture_crop.png
+    image: Tour-suspendue-RED20-LIO.jpg
     content: exp_det.md
     image_circular: false # crops the image to make it circular
     more_info: A RICOCHET bolometer.
