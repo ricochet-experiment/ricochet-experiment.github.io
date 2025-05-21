@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-experiment",
-          title: "experiment",
-          description: "All you always wanted to know about RICOCHET",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/experiment/";
-          },
-        },{id: "nav-institutions",
+  },{id: "nav-institutions",
           title: "institutions",
           description: "The RICOCHET collaboration members.",
           section: "Navigation",
@@ -412,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-ill-reactor-is-now-on-ricochet-continues-the-run-015-with-9-detectors",
+            },},{id: "news-cnrs-le-journal-published-an-article-about-neutrino-physics-at-different-energy-scales-with-a-section-on-ricochet-in-french",
+          title: 'CNRS Le Journal published an article about neutrino physics at different energy scales,...',
+          description: "",
+          section: "News",},{id: "news-the-ill-reactor-is-now-on-ricochet-continues-the-run-015-with-9-detectors",
           title: 'The ILL reactor is now ON, RICOCHET continues the run-015 with 9 detectors!...',
           description: "",
           section: "News",},{id: "news-a-productive-collaboration-meeting-ricochet-members-from-all-partner-institutions-met-at-the-institut-laue-langevin-for-a-week-of-fruitful-wor-kand-exchanges",
