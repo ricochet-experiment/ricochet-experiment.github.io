@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: Ricochet_CENNS_NuPhys.png
-    content: about_einstein.md #exp_cenns.md
+    content: exp_cenns.md
     image_circular: false # crops the image to make it circular
     more_info: J.Low Temp.Phys #[J.Low Temp.Phys. 212 (2023) 127-137](https://arxiv.org/pdf/2111.06745)
 #  - align: left
