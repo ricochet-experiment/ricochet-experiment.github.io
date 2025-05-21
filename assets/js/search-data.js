@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-experiment",
-    title: "experiment",
+    id: "nav-news",
+    title: "news",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -37,20 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -58,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -443,8 +415,8 @@ ninja.data = [{
             },},{id: "news-the-ill-reactor-is-now-on-ricochet-continues-the-run-015-with-9-detectors",
           title: 'The ILL reactor is now ON, RICOCHET continues the run-015 with 9 detectors!...',
           description: "",
-          section: "News",},{id: "news-a-very-successful-collaboration-meeting-ricochet-members-from-all-partner-institutions-met-at-the-institut-laue-langevin-for-a-productive-week",
-          title: 'A very successful collaboration meeting: RICOCHET members from all partner institutions met at...',
+          section: "News",},{id: "news-a-productive-collaboration-meeting-ricochet-members-from-all-partner-institutions-met-at-the-institut-laue-langevin-for-a-week-of-fruitful-wor-kand-exchanges",
+          title: 'A productive collaboration meeting: RICOCHET members from all partner institutions met at the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
