@@ -1,6 +1,6 @@
 ---
 layout: about
-title: experiment
+title: news
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
