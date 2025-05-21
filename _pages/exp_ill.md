@@ -1,0 +1,1 @@
+The RICOCHET experiment is located at ILL. The reactor gives a fine flux of low energy neutrinos! More details about it soon. 

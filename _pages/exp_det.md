@@ -1,0 +1,1 @@
+The RICOCHET experiment works at 0.01 K, colder than the temperature of the Universe! With bolometers operated with heat and ionisation sensors, the setup can detect both phonons and electrons and perform signal discrimination. It can reach the precision of 30 eVee, as described in [Eur.Phys.J.C 84 (2024) 2, 186](https://arxiv.org/pdf/2306.00166).
