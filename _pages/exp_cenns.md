@@ -1,0 +1,1 @@
+Coherent elastic neutrino-nucleus scattering is great. This section will soon explain you why you should care about it. In the meantime, look at the beautiful plot on the side. You may also read [articles](https://arxiv.org/pdf/1805.01798).

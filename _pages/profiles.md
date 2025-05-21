@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /experiment/
 title: experiment
-description: all you always wanted to know about RICOCHET
+description: All you always wanted to know about RICOCHET
 nav: true
 nav_order: 1
 
@@ -10,19 +10,19 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: Ricochet_CENNS_NuPhys.png
+    content: exp_cenns.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    more_info: [J.Low Temp.Phys. 212 (2023) 127-137](https://arxiv.org/pdf/2111.06745)
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: csm_ILL-Reactor_c_Jean-Louis_Baudet_24e3dd5820.jpg
+    content: exp_ill.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    more_info: The ILL reactor [credit: ILL - JL Baudet]
+  - align: right
+    image: PL38_picture_crop.png
+    content: exp_det.md
+    image_circular: false # crops the image to make it circular
+    more_info: A RICOCHET bolometer.
+
 ---
