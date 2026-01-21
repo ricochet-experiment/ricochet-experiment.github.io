@@ -1,4 +1,4 @@
-Coherent elastic neutrino-nucleus scattering: 
+**Neutrinos and the Ricochet experiment**: 
 
 Neutrinos are elementary particles, belonging the category of fermions in the Standard Model. 
 They are very different from other know particles: first, they have an extremely low mass, so low that physicists have not been able to measure it yet!
@@ -8,8 +8,7 @@ Therefore, they are a topic of choice for physicists, who study them to better u
 
 At low energy, neutrinos interact mainly through coherent elastic neutrino-nucleus interactions (CEvNS). 
 The interaction is coherent because the wavelength is on the order of the nucleus scale: they interact coherently with the whole atomic core. 
-It is elastic because neutrinos do not transfer enough energy to create new particle, they only scatter off the nucleus.
-The CEvNS has been predicted in 1974 by 
+The process is elastic as neutrinos do not transfer enough energy to create new particle, they only scatter off the nucleus, inducing its recoil.
+The CEvNS has been predicted in 1974 by [D. Z. Freedman](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.9.1389), yet was only detected for the first time in 2017 by the [COHERENT experiment](https://www.science.org/doi/10.1126/science.aao0990) at the Spallation Neutron Source (US) due to the challenging nature of detecting this faint signal.
+The Ricochet experiment aims at measuring the CEvNS interaction at lower energy by using a reactor as a source. 
 
-
-Coherent elastic neutrino-nucleus scattering is great. This section will soon explain you why you should care about it. In the meantime, look at the beautiful plot on the side. You may also read [articles](https://arxiv.org/pdf/1805.01798).

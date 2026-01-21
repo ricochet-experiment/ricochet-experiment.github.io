@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /experiment/
-title: experiment
-description: All you always wanted to know about RICOCHET
+title: The Ricochet experiment
+description: 
 nav: true
 nav_order: 1
 
@@ -10,19 +10,24 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: Ricochet_CENNS_NuPhys.png
+    image: Coherent_elastic_neutrino-nucleus_scattering.png
+    content: exp_nu.md
+    image_circular: false # crops the image to make it circular
+    more_info: The CEvNS process [credit: Ajheindel](https://commons.wikimedia.org/wiki/File:Coherent_elastic_neutrino-nucleus_scattering.svg) 
+  - align: left
+    image: Coherent_elastic_neutrino-nucleus_scattering.png
     content: exp_cenns.md
     image_circular: false # crops the image to make it circular
-    more_info: J.Low Temp.Phys 212 (2023) 127-137 #[J.Low Temp.Phys. 212 (2023) 127-137](https://arxiv.org/pdf/2111.06745)
-  - align: left
+    more_info: The CEvNS process [credit: Ajheindel](https://commons.wikimedia.org/wiki/File:Coherent_elastic_neutrino-nucleus_scattering.svg) 
+  - align: right
     image: ill_JLBaudet.jpg
     content: exp_ill.md
     image_circular: false # crops the image to make it circular
-    more_info: The ILL reactor credit ILL JL Baudet
-  - align: right
+    more_info: The ILL reactor (credit ILL-JL Baudet)
+  - align: left
     image: Tour-suspendue-RED20-LIO.jpg
     content: exp_det.md
     image_circular: false # crops the image to make it circular
-    more_info: A RICOCHET bolometer in the crysotat.
+    more_info: A RICOCHET bolometer in the crysotat
 
 ---
