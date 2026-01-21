@@ -25,9 +25,15 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: The ILL reactor (credit ILL-JL Baudet).
   - align: left
-    image: Tour-suspendue-RED20-LIO.jpg
+    image: ricochet_bolo.jpg
     content: exp_det.md
     image_circular: false # crops the image to make it circular
+    more_info: A Ricochet bolometer in the crysotat
+  - align: right
+    image: ricochet_collab_2025.png
+    content: exp_collab.md
+    image_circular: false # crops the image to make it circular
     more_info: A RICOCHET bolometer in the crysotat
+
 
 ---
