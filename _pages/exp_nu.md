@@ -1,4 +1,4 @@
-### Neutrinos and the Ricochet experiment
+### Ricochet, a low-energy neutrino experiment
 
 Neutrinos are elementary particles, belonging the category of fermions in the Standard Model. 
 They are very different from other know particles: first, they have an extremely low mass, so low that physicists have not been able to measure it yet!
@@ -9,4 +9,4 @@ Therefore, they are a topic of extreme interest for physicists, who study them t
 At low energy, neutrinos interact mainly through coherent elastic neutrino-nucleus interactions, abbreviated as CEvNS. 
 The interaction is _coherent_ because the wavelength is on the order of the nucleus scale: they interact coherently with the whole atomic core. 
 The process is _elastic_ as neutrinos do not transfer enough energy to create new particle, they only scatter off the nucleus.
-The **Ricochet experiment** aims at observing the CEvNS by developing new technologies able to detect the nuclear recoil induced by neutrinos.
+The Ricochet experiment aims at observing the CEvNS by developing new technologies able to detect the nuclear recoil induced by neutrinos.
