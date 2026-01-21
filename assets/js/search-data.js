@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-experiment",
-          title: "experiment",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/experiment/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "Articles from the Ricochet collaboration.",
           section: "Navigation",

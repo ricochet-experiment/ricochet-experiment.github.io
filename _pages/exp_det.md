@@ -1,3 +1,5 @@
+The Ricochet detector setup 
+
 The CEvNS only leaves a nuclear recoil as a trace of the interaction. 
 To detect this faint signal, the Ricochet collaboration has developped a unique design consisting of an 42 g Germanium semiconductor crystals. 
 An array of 18 crystals is placed into a dilution cryostat cooled at 0.015 K, colder than the temperature of the Universe!
