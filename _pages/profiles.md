@@ -15,6 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: The CEvNS process
   - align: left
+    image: cevns_bsm.png
     content: exp_cenns.md
     image_circular: false # crops the image to make it circular
     more_info: The CEvNS spectrum assuming different beyond Standard Model scenarii.
@@ -22,7 +23,7 @@ profiles:
     image: ill_JLBaudet.jpg
     content: exp_ill.md
     image_circular: false # crops the image to make it circular
-    more_info: The ILL reactor (credit ILL-JL Baudet)
+    more_info: The ILL reactor (credit ILL-JL Baudet).
   - align: left
     image: Tour-suspendue-RED20-LIO.jpg
     content: exp_det.md
