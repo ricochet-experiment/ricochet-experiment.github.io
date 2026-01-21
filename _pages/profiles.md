@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /experiment/
 title: The Ricochet experiment
-description: 
+description: #
 nav: true
 nav_order: 1
 
@@ -10,13 +10,13 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: Coherent_elastic_neutrino-nucleus_scattering.png
+    image: cevns_diagram.png
     content: exp_nu.md
     image_circular: false # crops the image to make it circular
     more_info: The CEvNS process [credit: Ajheindel](https://commons.wikimedia.org/wiki/File:Coherent_elastic_neutrino-nucleus_scattering.svg) 
   - align: left
     image: Coherent_elastic_neutrino-nucleus_scattering.png
-    content: exp_cenns.md
+    content: cevns_bsm.md
     image_circular: false # crops the image to make it circular
     more_info: The CEvNS process [credit: Ajheindel](https://commons.wikimedia.org/wiki/File:Coherent_elastic_neutrino-nucleus_scattering.svg) 
   - align: right
