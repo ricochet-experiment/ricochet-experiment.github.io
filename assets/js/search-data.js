@@ -9,19 +9,26 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-institutions",
-          title: "institutions",
-          description: "The RICOCHET collaboration members.",
+  },{id: "nav-the-ricochet-experiment",
+          title: "The Ricochet experiment",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/institutions/";
+            window.location.href = "/experiment/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Articles from the RICOCHET collaboration.",
+          description: "Articles from the Ricochet collaboration.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-gallery",
+          title: "gallery",
+          description: "Photos, pictures, diagrams from the Ricochet experiment.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
           },
         },{id: "post-a-post-with-plotly-js",
         
