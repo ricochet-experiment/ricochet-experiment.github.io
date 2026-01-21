@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-experiment",
-          title: "experiment",
-          description: "All you always wanted to know about RICOCHET",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/experiment/";
-          },
-        },{id: "nav-institutions",
+  },{id: "nav-institutions",
           title: "institutions",
           description: "The RICOCHET collaboration members.",
           section: "Navigation",
@@ -29,20 +22,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "The RICOCHET software.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
           },
         },{id: "post-a-post-with-plotly-js",
         
