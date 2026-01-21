@@ -1,10 +1,10 @@
 ---
 layout: page
-title: institutions
-permalink: /institutions/
-description: The RICOCHET collaboration members. 
+title: gallery
+permalink: /gallery/
+description: Photos, pictures, diagrams from the Ricochet experiment. 
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---

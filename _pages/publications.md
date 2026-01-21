@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Articles from the RICOCHET collaboration.
+description: Articles from the Ricochet collaboration.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- _pages/publications.md -->

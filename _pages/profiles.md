@@ -13,12 +13,11 @@ profiles:
     image: cevns_diagram.png
     content: exp_nu.md
     image_circular: false # crops the image to make it circular
-    more_info: The CEvNS process [credit: Ajheindel](https://commons.wikimedia.org/wiki/File:Coherent_elastic_neutrino-nucleus_scattering.svg) 
+    more_info: The CEvNS process
   - align: left
-    image: Coherent_elastic_neutrino-nucleus_scattering.png
-    content: cevns_bsm.md
+    content: exp_cenns.md
     image_circular: false # crops the image to make it circular
-    more_info: The CEvNS process [credit: Ajheindel](https://commons.wikimedia.org/wiki/File:Coherent_elastic_neutrino-nucleus_scattering.svg) 
+    more_info: The CEvNS spectrum assuming different beyond Standard Model scenarii.
   - align: right
     image: ill_JLBaudet.jpg
     content: exp_ill.md
