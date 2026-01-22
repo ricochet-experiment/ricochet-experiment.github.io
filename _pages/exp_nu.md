@@ -1,4 +1,4 @@
-### Ricochet, a low-energy neutrino experiment
+### A low-energy neutrino experiment
 
 Neutrinos are elementary particles, belonging the category of fermions in the Standard Model. 
 They are very different from other know particles: first, they have an extremely low mass, so low that physicists have not been able to measure it yet!
