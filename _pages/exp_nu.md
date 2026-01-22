@@ -1,6 +1,6 @@
 ### Ricochet, a low-energy neutrino experiment
 
-Neutrinos are elementary particles, belonging the category of fermions in the Standard Model. 
+Neutrinos are elementary particles, belonging the category of fermions in the [Standard Model of particle physics](https://en.wikipedia.org/wiki/Standard_Model). 
 They are very different from other know particles: first, they have an extremely low mass, so low that physicists have not been able to measure it yet!
 They also only interact through weak interaction, the weakest quantum force, which makes them travel extremely long distance through matter without leaving a trace. 
 On top of this, neutrinos do not have electric charge, and are only left-handed, making them one of the most mysterious elementary particle. 
