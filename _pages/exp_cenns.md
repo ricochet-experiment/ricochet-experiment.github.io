@@ -1,4 +1,4 @@
-### The search for physics beyond Standard Model
+### Testing the Standard Model with CEvNS
 
 The CEvNS has been predicted in 1974 by [D. Z. Freedman](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.9.1389), yet was only detected for the first time in 2017 by the [COHERENT experiment](https://sites.duke.edu/coherent/) at the Spallation Neutron Source (US) due to the challenging nature of detecting this faint signal.
 The Ricochet experiment aims at measuring the CEvNS interaction at lower energy by using a reactor as a source, pushing down the frontier of neutrino detection.
