@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: ricochet_run016.png
+  image: ricochet_layout.png
   image_circular: false # crops the image to make it circular
   more_info: 
     #>
