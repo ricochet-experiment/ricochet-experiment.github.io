@@ -19,5 +19,10 @@ profiles:
     content: exp_cenns.md
     image_circular: false # crops the image to make it circular
     more_info: CEvNS spectra assuming different beyond Standard Model scenarii
+  - align: right
+    image: ill_JLBaudet.jpg
+    content: exp_ill.md
+    image_circular: false # crops the image to make it circular
+    more_info: The ILL reactor (credit: JL Baudet - ILL)
 
 ---
