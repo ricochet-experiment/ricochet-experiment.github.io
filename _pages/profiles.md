@@ -14,5 +14,10 @@ profiles:
     content: exp_nu.md
     image_circular: false # crops the image to make it circular
     more_info: The CEvNS process
+  - align: left
+    image: cevns_bsm.png
+    content: exp_cenns.md
+    image_circular: false # crops the image to make it circular
+    more_info: CEvNS spectra assuming different beyond Standard Model scenarii
 
 ---
