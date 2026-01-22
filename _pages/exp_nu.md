@@ -9,4 +9,4 @@ Therefore, they are a topic of extreme interest for physicists, who study them t
 At low energy, neutrinos interact mainly through coherent elastic neutrino-nucleus interactions, abbreviated as CEνNS. 
 The interaction is _coherent_ because the wavelength is on the order of the nucleus scale: they interact coherently with the whole atomic core. 
 The process is _elastic_ as neutrinos do not transfer enough energy to create new particle, they only scatter off the nucleus.
-The Ricochet experiment aims at observing the $CE \nu NS$ by developing new technologies able to detect the nuclear recoil induced by neutrinos.
+The Ricochet experiment aims at observing the CEνNS by developing new technologies able to detect the nuclear recoil induced by neutrinos.
