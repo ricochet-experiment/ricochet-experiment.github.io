@@ -288,8 +288,8 @@ scholar:
   
   sort_by: year, month  
   order: descending, descending  
-  type_order: [article, proceedings]  
-  type_names: {article: articles}
+  type_order: [article, proceedings, white_papers]  
+  type_names: {white_papers: white papers}
 
   query: "@*"
   group_by: year
