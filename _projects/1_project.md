@@ -1,10 +1,10 @@
 ---
 layout: page
 title: experimental setup
-description: 
-img: assets/img/setup/DSC_6765.jpg 
+description: Photos of the Ricochet experimental setup. 
+img: assets/img/setup/DSC_6765.jpg
 importance: 1
-category: 
+category: work
 related_publications: false
 ---
 
@@ -29,6 +29,84 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Ricochet members immortalising the mounting of the final setup. 
+    Teams of Ricochet collaborators immortalising the mounting of the final setup. 
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6725.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6737.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Teams of Ricochet collaborators installing the experiment.  
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6700.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6706.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6718.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Teams of Ricochet collaborators installing the experiment.  
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6784.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6859.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6862.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Teams of Ricochet collaborators closing the first layer of the cryostat.  
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_7021.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_7022.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_7044.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Teams of Ricochet collaborators closing the last layer of the cryostat.  
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/20250708_122216.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/blindage.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/20250721_162225.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+</div>
+<div class="caption">
+    The closed Ricochet cryostat placed inside the external shield.
 </div>
 
