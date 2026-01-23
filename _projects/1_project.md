@@ -5,19 +5,18 @@ description: Photos of the Ricochet experimental setup.
 img: assets/img/setup/DSC_6765.jpg
 importance: 1
 category: work
-related_publications: false
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6765.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryocube/DSC_6982.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6767.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryocube/DSC_7008.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The Ricochet cryostat with, from top to bottom: the cryogenic veto, internal shielding, cryogenic electronics and cryocube detectors. Around are the layers of external shield and muon. 
+    The Ricochet cryocubes placed in the cryostat with, from top to bottom: the cryogenic veto, internal shielding, cryogenic electronics and cryocube detectors. Around are the layers of external shield and muon. 
 </div>
 
 <div class="row">
