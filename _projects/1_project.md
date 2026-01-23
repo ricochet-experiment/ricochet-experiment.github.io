@@ -2,18 +2,18 @@
 layout: page
 title: experimental setup
 description: 
-img: assets/img/setup/DSC_6765.JPG
+img: assets/img/setup/DSC_6765.jpg 
 importance: 1
-category: pictures
+category: 
 related_publications: false
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6725.JPG" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6725.jpg \" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6737.JPG" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6737.jpg \" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -21,7 +21,7 @@ related_publications: false
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/5.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/5.jpg \" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,10 +34,10 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/setup/6.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/setup/6.jpg \" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/setup/11.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/setup/11.jpg \" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -54,10 +54,10 @@ Here's the code for the last row of images above:
 ```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/setup/6.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/setup/6.jpg \" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/setup/11.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/setup/11.jpg \" title="" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 ```
