@@ -409,7 +409,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-experimental-setup",
           title: 'experimental setup',
-          description: "",
+          description: "Photos of the Ricochet experimental setup.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
