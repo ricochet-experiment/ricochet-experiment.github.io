@@ -407,8 +407,8 @@ ninja.data = [{
           section: "News",},{id: "news-a-productive-collaboration-meeting-ricochet-members-from-all-partner-institutions-met-at-the-institut-laue-langevin-for-a-week-of-fruitful-work-and-exchanges",
           title: 'A productive collaboration meeting: RICOCHET members from all partner institutions met at the...',
           description: "",
-          section: "News",},{id: "projects-experimental-setup",
-          title: 'experimental setup',
+          section: "News",},{id: "projects-setup",
+          title: 'setup',
           description: "Photos of the Ricochet experimental setup.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
