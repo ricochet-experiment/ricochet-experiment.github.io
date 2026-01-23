@@ -1,10 +1,10 @@
 ---
 layout: page
-title: experimental setup
+title: setup
 description: Photos of the Ricochet experimental setup. 
 img: assets/img/setup/DSC_6765.jpg
 importance: 1
-category: work
+category: 
 ---
 
 <div class="row">

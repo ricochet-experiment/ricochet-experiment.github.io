@@ -4,7 +4,7 @@ title: cryocubes
 description: Photos of the Ricochet detectors.
 img: assets/img/cryocube/DSC_6982.JPG
 importance: 2
-category: work
+category: 
 ---
 
 <div class="row">
