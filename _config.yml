@@ -266,8 +266,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ricochet]
+  first_name: [ ]
 
   style: apa
   locale: en
@@ -285,6 +285,11 @@ scholar:
 
   details_dir: bibliography
   details_link: Details
+  
+  sort_by: year, month  
+  order: descending, descending  
+  type_order: [article, proceedings]  
+  type_names: {article: articles}
 
   query: "@*"
   group_by: year
