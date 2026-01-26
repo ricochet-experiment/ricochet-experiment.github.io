@@ -417,11 +417,6 @@ ninja.data = [{
           description: "Photos of the Ricochet detectors.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-diagrams",
-          title: 'diagrams',
-          description: "Schematics of the Ricochet setup.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
