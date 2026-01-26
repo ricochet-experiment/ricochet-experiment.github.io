@@ -16,7 +16,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    The Ricochet cryocubes placed in the cryostat. 
+    The Ricochet cryocubes placed in the cryostat (credit: S. Monfront - ILL). 
 </div>
 
 
@@ -29,7 +29,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    A close look at the optical fiber bringing the laser up to the Ricochet detector. 
+    A close look at the optical fiber bringing the laser up to the Ricochet detector (credit: S. Monfront - ILL). 
 </div>
 
 
@@ -42,7 +42,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    The full cryocube payload and a detector before being placed in a minicryocube.  
+    The full cryocube payload and a detector before being placed in a minicryocube (credits: S. Monfront - ILL and Ricochet collaboration).  
 </div>
 
 
@@ -58,5 +58,5 @@ category:
     </div>
 </div>
 <div class="caption">
-    A minicryocube (left) and detectors with planar (center) and fully interdigistised (right) electrodes.  
+    A minicryocube (left) and detectors with planar (center) and fully interdigistised (right) electrodes (credit: Ricochet collaboration).  
 </div>

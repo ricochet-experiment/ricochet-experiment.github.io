@@ -9,14 +9,14 @@ category:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cryocube/DSC_6982.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6765.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cryocube/DSC_7008.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/DSC_6767.JPG" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The Ricochet cryocubes placed in the cryostat with, from top to bottom: the cryogenic veto, internal shielding, cryogenic electronics and cryocube detectors. Around are the layers of external shield and muon. 
+    The Ricochet cryocubes placed in the cryostat with, from top to bottom: the cryogenic veto, internal shielding, cryogenic electronics and cryocube detectors. Around are the layers of external shield and muon (credit: S. Monfront - ILL). 
 </div>
 
 <div class="row">
@@ -28,7 +28,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    Teams of Ricochet collaborators installing the experiment.  
+    Teams of Ricochet collaborators installing the experiment (credit: S. Monfront - ILL).  
 </div>
 
 
@@ -44,7 +44,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    Teams of Ricochet collaborators installing the experiment.  
+    Teams of Ricochet collaborators installing the experiment (credit: S. Monfront - ILL).  
 </div>
 
 
@@ -60,7 +60,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    Ricochet collaborators closing the cryostat.  
+    Ricochet collaborators closing the cryostat (credit: S. Monfront - ILL).  
 </div>
 
 
@@ -79,7 +79,7 @@ category:
 
 </div>
 <div class="caption">
-    The closed Ricochet cryostat placed inside the external shield.
+    The closed Ricochet cryostat placed inside the external shield (credit: S. Monfront - ILL).
 </div>
 
 
@@ -97,7 +97,7 @@ category:
 
 </div>
 <div class="caption">
-    The internal and external cosmic ray veto detectors.
+    The internal and external cosmic ray veto detectors (credit: Ricochet collaboration).
 </div>
 
 
@@ -115,5 +115,5 @@ category:
 
 </div>
 <div class="caption">
-    Elements of Ricochet data acquisition system.
+    Elements of Ricochet data acquisition system (credit: Ricochet collaboration).
 </div>
