@@ -1,15 +1,8 @@
-### The Ricochet detector setup 
+### The Ricochet cryogenic detectors
 
-The CEvNS only leaves a nuclear recoil as a trace of the interaction. 
-To detect this faint signal, the Ricochet collaboration has developped a unique design consisting of an 42 g Germanium semiconductor crystals. 
-An array of 18 crystals is placed into a dilution cryostat cooled at 0.015 K, colder than the temperature of the Universe!
-When an antineutrino scatters off a nucleus in the crystal, it disturbs its lattice, creating phonons propagating into the detector.
-The heat elevation is measured by a NTD sensor placed at the surface of the detector.
-In addition, the recoil creates a perturbation in the atomic cloud, leading to an ionisation signal amplified and collected by electrodes. 
-Two types of electrodes have been designed for the collaboration: planar electrodes covering a full surface, and fully interdigitised electrodes enabling to reject surface background. 
-The dual readout of heat and ionisation channels is a unique feature of the Ricochet experiment, enabling the characterisation of particle identification crucial for an accurate CEνNS measurement. 
-
-The collaboration has an intensive R&D program focused on improving the sensitivity to CEνNS and physics overeach. 
-The Q-array is studying the ability of supraconductive detectors, such as zinc, to detect low-energy neutrino interactions.
-New semiconductor targets, such as silicium, are currently being tested as potential addition to the current setup. 
+Searching for Coherent Elastic Neutrino-Nucleus Scattering (CEνNS) interactions involves detecting antineutrino-induced sub-keV nuclear recoils, which are overwhelmed by environmental backgrounds. To achieve this ambitious goal, the Ricochet collaboration has developed an array of 18 ultra-sensitive 42 g germanium crystals, known as the CryoCube, cooled to 15 mK.
+When an antineutrino scatters off a nucleus in the crystal, the subsequent nuclear recoil disturbs the crystal lattice, generating phonons that propagate through the detector, and ionizes the surrounding material, additionaly creating electron-hole pairs. Each crystal is equipped with both a phonon sensor, namely a Neutron Transmutation-Doped (NTD) germanium thermistor, and aluminum electrodes. This setup enables the simultaneous readout of the heat and ionization energies deposited in the crystal following any particle interaction.
+The collaboration has designed two types of electrodes: planar electrodes (PL), which cover the top and bottom surfaces, and fully interdigitated electrodes (FID), which allow for surface background rejection at the cost of a reduced fiducial volume.
+The dual readout of heat and ionization energies is the key technological feature of the Ricochet experiment. It uniquely enables the identification of each recoiling particle, down to the sub-keV recoil energy range, thus providing highly efficient background suppression which is critical for an accurate CEνNS measurement.
+Although the first science phase has already begun, the collaboration continues an intensive R&D program aimed at improving CEνNS sensitivity and expanding the experiment’s physics reach. These improvements include: 1) the development of the Q-array detector technology using superconducting cryogenic crystals, and 2) the addition of a second semiconductor target material, such as silicon, which has already shown promising results.
 

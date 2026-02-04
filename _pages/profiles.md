@@ -25,11 +25,16 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: The ILL reactor (credit J. L. Baudet - ILL)
   - align: left
+    image: ricochet_layout.png
+    content: exp_setup.md
+    image_circular: false # crops the image to make it circular
+    more_info: The ILL reactor (credit J. L. Baudet - ILL)
+  - align: right
     image: ricochet_bolo.jpg
     content: exp_det.md
     image_circular: false # crops the image to make it circular
     more_info: Ricochet bolometers in the cryostat (credit S. Monfront - ILL)
-  - align: right
+  - align: left
     image: ricochet_collab_2025.png
     content: exp_collab.md
     image_circular: false # crops the image to make it circular
