@@ -123,10 +123,10 @@ category:
         {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183433.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183433.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183425.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183433.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183447.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
