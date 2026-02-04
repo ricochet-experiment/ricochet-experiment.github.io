@@ -1,6 +1,6 @@
 ### The Ricochet collaboration
 
-Ricochet is an international collaboration formed by the following institutes : 
+Ricochet is an international collaboration formed by the following institutes: 
 
 - Centre for Nanoscience and Nanotechnology [C2N] (France)
 - Colorado School of Mines [Mines] (USA)

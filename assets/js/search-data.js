@@ -416,26 +416,23 @@ ninja.data = [{
           section: "News",},{id: "news-cnrs-le-journal-published-an-article-about-neutrino-physics-at-different-energy-scales-with-a-section-on-ricochet-in-french",
           title: 'CNRS Le Journal published an article about neutrino physics at different energy scales,...',
           description: "",
-          section: "News",},{id: "news-the-ill-reactor-is-now-on-ricochet-continues-the-run-015-with-9-detectors",
-          title: 'The ILL reactor is now ON, RICOCHET continues the run-015 with 9 detectors!...',
-          description: "",
-          section: "News",},{id: "news-a-productive-collaboration-meeting-ricochet-members-from-all-partner-institutions-met-at-the-institut-laue-langevin-for-a-week-of-fruitful-work-and-exchanges",
-          title: 'A productive collaboration meeting: RICOCHET members from all partner institutions met at the...',
-          description: "",
           section: "News",},{id: "news-ricochet-is-entering-its-first-science-phase-at-ill-with-the-beginning-of-run016-and-its-full-cryocube-payload-including-11-fid-and-7-planar-detectors",
           title: 'Ricochet is entering its first science phase at ILL with the beginning of...',
           description: "",
           section: "News",},{id: "news-ricochet-commissionning-preprint-presenting-first-results-of-the-ricochet-experiment-at-ill-including-detetor-performance-and-background-characterizations-down-to-2-kev",
           title: 'Ricochet commissionning preprint presenting first results of the Ricochet experiment at ILL, including...',
           description: "",
+          section: "News",},{id: "news-after-the-replacement-of-the-so-called-fet-box-to-minimize-the-overall-heat-load-on-the-cryogenics-run017-is-starting-in-the-continuation-of-the-ongoing-first-science-phase-of-the-ricochet-experiment-at-ill",
+          title: 'After the replacement of the so-called FET box to minimize the overall heat...',
+          description: "",
           section: "News",},{id: "projects-setup",
           title: 'Setup',
           description: "Photos of the Ricochet experimental setup.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-cryocubes",
-          title: 'CryoCubes',
-          description: "Photos of the Ricochet detectors.",
+            },},{id: "projects-cryocube",
+          title: 'CryoCube',
+          description: "Photos of the Ricochet cryogenic detectors.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
