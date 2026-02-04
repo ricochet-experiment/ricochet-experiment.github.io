@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-",
-          title: "",
-          description: "",
+  },{id: "nav-experiment",
+          title: "experiment",
+          description: "Details about the Ricochet physics goals, experimental setup, and collaboration.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/experiment/";
@@ -429,12 +429,12 @@ ninja.data = [{
           title: 'Ricochet commissionning preprint presenting first results of the Ricochet experiment at ILL, including...',
           description: "",
           section: "News",},{id: "projects-setup",
-          title: 'setup',
+          title: 'Setup',
           description: "Photos of the Ricochet experimental setup.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cryocubes",
-          title: 'cryocubes',
+          title: 'CryoCubes',
           description: "Photos of the Ricochet detectors.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
