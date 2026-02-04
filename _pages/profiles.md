@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /experiment/
-title: #experiment
-description: #Details about the Ricochet physics goals, experimental setup, and collaboration. 
+title: experiment
+description: Details about the Ricochet physics goals, experimental setup, and collaboration. 
 nav: true
 nav_order: 1
 

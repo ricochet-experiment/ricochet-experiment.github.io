@@ -1,6 +1,6 @@
 ---
 layout: page
-title: setup
+title: Setup
 description: Photos of the Ricochet experimental setup. 
 img: assets/img/setup/DSC_6765.jpg
 importance: 1
@@ -16,7 +16,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    The Ricochet cryocubes placed in the cryostat with, from top to bottom: the cryogenic veto, internal shielding, cryogenic electronics and cryocube detectors. Around are the layers of external shield and muon (credit: S. Monfront - ILL). 
+    The Ricochet cryostat from top to bottom: the cryogenic muon veto, internal shielding, CryoCube electronics and CryoCube detectors (credit: S. Monfront - ILL). 
 </div>
 
 <div class="row">
@@ -28,7 +28,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    Teams of Ricochet collaborators installing the experiment (credit: S. Monfront - ILL).  
+    Ricochet collaborators preparing for RUN-016 (credit: S. Monfront - ILL).  
 </div>
 
 
@@ -44,7 +44,7 @@ category:
     </div>
 </div>
 <div class="caption">
-    Teams of Ricochet collaborators installing the experiment (credit: S. Monfront - ILL).  
+    Ricochet collaborators preparing for RUN-016 (credit: S. Monfront - ILL).  
 </div>
 
 
@@ -60,10 +60,8 @@ category:
     </div>
 </div>
 <div class="caption">
-    Ricochet collaborators closing the cryostat (credit: S. Monfront - ILL).  
+    Closing of the Ricochet cryostat (credit: S. Monfront - ILL).  
 </div>
-
-
 
 
 <div class="row">
@@ -79,7 +77,7 @@ category:
 
 </div>
 <div class="caption">
-    The closed Ricochet cryostat placed inside the external shield (credit: S. Monfront - ILL).
+    The closed Ricochet cryostat and its the external shield, open and closed (credit: S. Monfront - ILL).
 </div>
 
 
@@ -89,7 +87,7 @@ category:
         {% include figure.liquid loading="eager" path="assets/img/setup/veto_cryo_01.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/veto_cryo_01.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/veto_cryo_02.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/setup/veto_muon.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
@@ -97,14 +95,14 @@ category:
 
 </div>
 <div class="caption">
-    The internal and external cosmic ray veto detectors (credit: Ricochet collaboration).
+    The internal and external muon veto panels (credit: Ricochet collaboration).
 </div>
 
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/setup/20250721_161705.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/setup/20250708_173004.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/setup/20250721_155610.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
@@ -115,5 +113,23 @@ category:
 
 </div>
 <div class="caption">
-    Elements of Ricochet data acquisition system (credit: Ricochet collaboration).
+    Elements of Ricochet data acquisition system: warm CryoCube electronics, optical fibers calibration feed-through, and external power supplies (credit: Ricochet collaboration).
+</div>
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183433.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183433.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/setup/20260126_183433.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+</div>
+<div class="caption">
+    Technical room of the Ricochet experiment (credit: Ricochet collaboration).
 </div>
