@@ -4,27 +4,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-news",
-    title: "news",
+    title: "News",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-experiment",
-          title: "experiment",
+          title: "Experiment",
           description: "Details about the Ricochet physics goals, experimental setup, and collaboration.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/experiment/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Articles from the Ricochet collaboration.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-gallery",
-          title: "gallery",
+          title: "Gallery",
           description: "Photos, pictures, diagrams from the Ricochet experiment.",
           section: "Navigation",
           handler: () => {
@@ -398,13 +398,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-ricochet-cryostat-reached-8-6-mk-at-ill-after-two-months-of-installation",
-          title: 'The Ricochet cryostat reached 8.6 mK at ILL after two months of installation....',
+            },},{id: "news-the-ricochet-cryostat-reached-8-6-mk-at-ill-after-three-months-of-installation",
+          title: 'The Ricochet cryostat reached 8.6 mK at ILL after three months of installation....',
           description: "",
-          section: "News",},{id: "news-beginning-of-run013-with-one-minicryocube-module-of-three-42-g-ge-planar-cryogenic-detetors-for-first-ricochet-ligths-at-ill",
+          section: "News",},{id: "news-beginning-of-run013-with-one-minicryocube-module-of-three-42-g-ge-planar-cryogenic-detetors-for-first-ricochet-cryogenic-calorimeter-data-at-ill",
           title: 'Beginning of RUN013 with one miniCryoCube module of three 42 g Ge planar...',
           description: "",
-          section: "News",},{id: "news-press-release-from-in2p3-cnrs-presenting-the-ricochet-experiment-newly-installed-at-ill-and-taking-first-commissionning-data",
+          section: "News",},{id: "news-press-release-from-in2p3-cnrs-presenting-the-ricochet-experiment-newly-installed-at-ill-and-taking-first-commissioning-data",
           title: 'Press release from IN2P3/CNRS presenting the Ricochet experiment newly installed at ILL and...',
           description: "",
           section: "News",},{id: "news-run014-begins-the-internal-150-kg-polyethylene-copper-and-lead-shield-is-installed-alongside-one-minicryocube-module",
@@ -419,11 +419,11 @@ ninja.data = [{
           section: "News",},{id: "news-ricochet-is-entering-its-first-science-phase-at-ill-with-the-beginning-of-run016-and-its-full-cryocube-payload-including-11-fid-and-7-planar-detectors",
           title: 'Ricochet is entering its first science phase at ILL with the beginning of...',
           description: "",
-          section: "News",},{id: "news-ricochet-commissionning-preprint-presenting-first-results-of-the-ricochet-experiment-at-ill-including-detetor-performance-and-background-characterizations-down-to-2-kev",
-          title: 'Ricochet commissionning preprint presenting first results of the Ricochet experiment at ILL, including...',
+          section: "News",},{id: "news-ricochet-commissioning-article-presenting-first-results-of-the-ricochet-experiment-at-ill-including-detector-performance-and-background-characterizations-down-to-2-kev-has-been-published-in-physical-review-d",
+          title: 'Ricochet commissioning article presenting first results of the Ricochet experiment at ILL, including...',
           description: "",
-          section: "News",},{id: "news-after-the-replacement-of-the-so-called-fet-box-to-minimize-the-overall-heat-load-on-the-cryogenics-run017-is-starting-in-the-continuation-of-the-ongoing-first-science-phase-of-the-ricochet-experiment-at-ill",
-          title: 'After the replacement of the so-called FET box to minimize the overall heat...',
+          section: "News",},{id: "news-after-the-replacement-of-the-phonon-channel-amplifier-on-the-50-k-stage-to-minimize-the-overall-heat-load-on-the-cryogenics-run017-is-starting-in-the-continuation-of-the-ongoing-first-science-phase-of-the-ricochet-experiment-at-ill",
+          title: 'After the replacement of the phonon channel amplifier on the 50 K stage...',
           description: "",
           section: "News",},{id: "projects-setup",
           title: 'Setup',
