@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gallery
+title: Gallery
 permalink: /gallery/
 description: Photos, pictures, diagrams from the Ricochet experiment. 
 nav: true

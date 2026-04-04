@@ -1,6 +1,6 @@
 ---
 layout: about
-title: news
+title: News
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -32,6 +32,6 @@ Coherent elastic neutrino-nucleus scattering (CEvNS) is a long-predicted interac
 
 To explore this phenomenon, the Ricochet experiment was first proposed in 2017 and began its initial science phase in 2025 at the Institut Laue-Langevin (ILL), just 8.8 meters from a 58 MW thermal research nuclear reactor. This proximity provides an intense neutrino flux, ideal for studying CEvNS at low recoil energies (sub-keV).
 
-Ricochet is a global collaboration involving about 50 physicists, engineers, and technicians from France, the U.S., Russia, and Canada. The center of the experiment is the CryoCube, an array of germanium-based cryogenic detectors cooled to 10 millikelvin. These detectors use a dual phonon-ionization readout, enabling them to distinguish CEνNS interactions from overwhelming environmental backgrounds. With 18 detectors, each weighing about 42 grams, the experiment exposes a total germanium target mass of 750 grams to a neutrino flux of approximately 10¹² neutrinos/cm²/s. At an energy threshold of 50 eVnr, the expected event rate is around 10 events per day.
+Ricochet is a global collaboration involving about 50 physicists, engineers, and technicians from France, the U.S., Russia, and Canada. The center of the experiment is the CryoCube, an array of germanium-based cryogenic detectors cooled to 10 millikelvin. These detectors use a dual phonon-ionization readout, enabling them to distinguish CEνNS interactions from environmental backgrounds. With 18 detectors, each weighing about 42 grams, the experiment exposes a total germanium target mass of 0.75 Kg to a neutrino flux of approximately 10¹² neutrinos/cm²/s. The expected rate is few interactions per days in the Ricochet detectors. # At an energy threshold of 50 eVnr, the expected event rate is around 10 events per day.
 
-A second science phase is planned, featuring the deployment of silicon target materials and a new detector technology called Q-Array, which uses superconducting target materials. These advancements will expand the experiment’s capabilities and deepen the search for new physics in the CEvNS sector.
+A second science phase is envisioned, featuring the deployment of silicon target materials and a new detector technology called Q-Array, which uses superconducting target materials. These advancements will expand the experiment’s capabilities and increase the sensitivity to new physics in the CEvNS sector.

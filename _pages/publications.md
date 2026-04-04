@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Articles from the Ricochet collaboration.
 nav: true
 nav_order: 2
